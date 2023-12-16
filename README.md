@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bababoi
 - 🌱 I’m currently learning C language
 - 📫 How to reach me :
-  hamza.kharraz@epitech.eu
+  kharrazhamza@gmail.com
   
   
   NO CAP
